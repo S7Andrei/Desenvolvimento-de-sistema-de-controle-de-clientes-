@@ -5,7 +5,7 @@
    - Entrada e saída de dados;
    - Declaração de variáveis.
    - Operadores aritméticos;
-   - Estruturas condicionais e de repetição se necessário;
+   - Estruturas condicionais e de repetição;
    - Operadores relacionais e lógicos.
 
  ## conceitos de Programação Orientada a Objetos – POO:
